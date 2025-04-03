@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "31cbe34587729f39",
+    "type": "split",
+    "children": [
+      {
+        "id": "4abf340317ab4f83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd0723cd0bf22eb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Ветки и изменения/1. Ветки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Ветки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c230ede252dff074",
+    "type": "split",
+    "children": [
+      {
+        "id": "234b37a9b668c8cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de3c5d665b408983",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "550908ba0e8b12f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "590505545e040f58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f57eaf66b09293cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea59dd278cc5c759",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11d9686bfe18107f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Ветки и изменения/4. Тэги.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4. Тэги"
+            }
+          },
+          {
+            "id": "1793fdb376ca27fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Ветки и изменения/4. Тэги.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4. Тэги"
+            }
+          },
+          {
+            "id": "cbb6c7f80c44b813",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "36b151166fc3c795",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Ветки и изменения/4. Тэги.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4. Тэги"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 487.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bd0723cd0bf22eb3",
+  "lastOpenFiles": [
+    "2. Начало работы с Git/7. Первый commit.md",
+    "2. Начало работы с Git/4. Установка VSCode.md",
+    "2. Начало работы с Git/2. Установка Git Linux и Mac.md",
+    "3. Ветки и изменения/2. Слияние.md",
+    "2. Начало работы с Git/5. Создание репозитория.md",
+    "2. Начало работы с Git/8. Git log и checkout.md",
+    "2. Начало работы с Git/3. Установка Git Windows.md",
+    "3. Ветки и изменения/4. Тэги.md",
+    "Untitled 3/Untitled.md",
+    "2025-04-03.md",
+    "Untitled 2.canvas",
+    "3. Ветки и изменения/3. HEAD.md",
+    "3. Ветки и изменения/1. Ветки.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 3 1",
+    "2. Начало работы с Git/6. Git config.md",
+    "2. Начало работы с Git/1. Базовые понятия.md",
+    "1. Базовые команды/2. Основные команды для работы с Bash.md",
+    "1. Базовые команды/1. Базовые команды Windows.md",
+    "3. Ветки и изменения/5. Switch.md",
+    "3. Ветки и изменения/6. Удаление файлов.md",
+    "3. Ветки и изменения/7. Откат изменений.md",
+    "3. Ветки и изменения/Untitled.canvas",
+    "Начало работы с Git/8. Git log и checkout 1.md",
+    "Начало работы с Git/Установка Git Linux и Mac.md",
+    "Базовые команды/Базовые команды",
+    "Untitled 3",
+    "3. Ветки и изменения",
+    "2. Начало работы с Git",
+    "1. Базовые команды"
+  ]
+}
