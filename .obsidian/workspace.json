@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Ветки и изменения/1. Ветки.md",
+                "file": "1. Базовые команды/Базовые команды Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Ветки"
+              "title": "Базовые команды Windows"
             }
           }
         ]
@@ -161,7 +161,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,29 +171,31 @@
   },
   "active": "bd0723cd0bf22eb3",
   "lastOpenFiles": [
-    "2. Начало работы с Git/7. Первый commit.md",
-    "2. Начало работы с Git/4. Установка VSCode.md",
-    "2. Начало работы с Git/2. Установка Git Linux и Mac.md",
-    "3. Ветки и изменения/2. Слияние.md",
-    "2. Начало работы с Git/5. Создание репозитория.md",
-    "2. Начало работы с Git/8. Git log и checkout.md",
-    "2. Начало работы с Git/3. Установка Git Windows.md",
-    "3. Ветки и изменения/4. Тэги.md",
+    "1. Базовые команды/Основные команды для работы с Bash.md",
+    "1. Базовые команды/Базовые команды Windows.md",
+    "2. Начало работы с Git/Git log и checkout.md",
+    "2. Начало работы с Git/Git config.md",
+    "2. Начало работы с Git/Установка VSCode.md",
+    "2. Начало работы с Git/Установка Git Windows.md",
+    "2. Начало работы с Git/Установка Git Linux и Mac.md",
+    "2. Начало работы с Git/Создание репозитория.md",
+    "2. Начало работы с Git/Первый commit.md",
+    "2. Начало работы с Git/Базовые понятия.md",
+    "3. Ветки и изменения/Switch.md",
+    "3. Ветки и изменения/HEAD.md",
+    "3. Ветки и изменения/Удаление файлов.md",
+    "3. Ветки и изменения/Тэги.md",
+    "3. Ветки и изменения/Слияние.md",
+    "3. Ветки и изменения/Откат изменений.md",
+    "3. Ветки и изменения/Ветки.md",
+    "Навигация.md",
+    "Untitled",
     "Untitled 3/Untitled.md",
     "2025-04-03.md",
     "Untitled 2.canvas",
-    "3. Ветки и изменения/3. HEAD.md",
-    "3. Ветки и изменения/1. Ветки.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 3 1",
-    "2. Начало работы с Git/6. Git config.md",
-    "2. Начало работы с Git/1. Базовые понятия.md",
-    "1. Базовые команды/2. Основные команды для работы с Bash.md",
-    "1. Базовые команды/1. Базовые команды Windows.md",
-    "3. Ветки и изменения/5. Switch.md",
-    "3. Ветки и изменения/6. Удаление файлов.md",
-    "3. Ветки и изменения/7. Откат изменений.md",
     "3. Ветки и изменения/Untitled.canvas",
     "Начало работы с Git/8. Git log и checkout 1.md",
     "Начало работы с Git/Установка Git Linux и Mac.md",
