@@ -17,8 +17,8 @@
 
 - ✅ Более строгий и предсказуемый синтаксис
 
-
-#### **2. Примеры**
+---
+### 2. Примеры
 
 **Базовые операции**
 ```bash
@@ -31,6 +31,7 @@ git switch -c feature/new-button
 # Переключение на предыдущую ветку (удобный алиас)
 git switch -
 ```
+
 **Продвинутые сценарии**
 ```bash
 # Создание ветки из определённого коммита
@@ -43,7 +44,8 @@ git switch main --discard-changes
 git switch feature/login --merge
 ```
 
-#### **3. Важно
+---
+### 3. Важно
 
 **Системные требования**
 
@@ -70,7 +72,6 @@ git config --global alias.switch 'checkout'
     - Не поддерживает переход в detached HEAD (используйте `git checkout`)
     
     - Не работает с тегами
-    
 
 **Интеграция с другими командами**
 ```bash
@@ -79,9 +80,10 @@ git switch -c feature/remote --track origin/feature/remote
 
 # Переключиться на ветку, которой нет локально (но есть в remote)
 git switch --detach origin/main
-
 ```
-#### **4. Рекомендации по переходу с`checkout`**
+
+---
+### 4. Рекомендации по переходу с`checkout`
 
 1. **Новая привычка**:
 ```bash
@@ -101,11 +103,11 @@ git switch -c new-branch
     
 2. **Автодополнение**:  
 	* Настройте shell-автодополнение для более удобной работы: 
-	  ```bash
+      ```bash
 		complete -o default -o nospace -F _git_switch git-switch
 		```
-    
 
+---
 #### **5. Под капотом: почему появился `switch`**
 
 Проблемы `git checkout`:
