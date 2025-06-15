@@ -14,7 +14,6 @@ Recursive merge - стандартный алгоритм слияния в Git,
 ## 2. Примеры использования
 
 ### Базовые команды:
-
 ```bash
 # Стандартное слияние с recursive стратегией
 git merge feature-branch
@@ -22,9 +21,7 @@ git merge feature-branch
 # Принудительное создание merge-коммита (даже при fast-forward)
 git merge --no-ff feature-branch
 ```
-
 ### Управление конфликтами:
-
 ```bash
 # При конфликте - показать статус
 git status
@@ -35,7 +32,6 @@ git merge -Xours feature-branch
 # Принять все изменения "их" ветки (feature-branch)
 git merge -Xtheirs feature-branch
 ```
-
 ## 3. Важные особенности
 
 ### Преимущества:
