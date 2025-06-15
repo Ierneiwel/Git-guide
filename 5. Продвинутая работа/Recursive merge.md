@@ -1,4 +1,4 @@
-## 1. Назначение Recursive Merge
+### 1. Назначение Recursive Merge
 
 Recursive merge - стандартный алгоритм слияния в Git, который:
 
